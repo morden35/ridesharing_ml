@@ -1,0 +1,14 @@
+# No notebook checkpoints
+**/.ipynb_checkpoints
+
+# No VS code files
+*.vscode/
+
+# MacOS
+.DS_Store
+.DS_Store/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
