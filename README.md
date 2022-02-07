@@ -1,5 +1,16 @@
----
-abstract: |
+
+# Ridesharing in Chicago, IL:\
+## Exploring community- and trip-level factors influencing willingness to pool
+
+### Valeria Balza
+### University of Chicago
+### vbalza@uchicago
+
+### Michelle Orden
+### University of Chicago
+### morden@uchicago
+
+## Abstract
   The emergence of ridesourcing providers such as Uber and Lyft have
   prompted numerous questions around urban mobility, the gig economy,
   and environmental sustainability---among other topics. While recent
@@ -17,16 +28,6 @@ abstract: |
   to split rides. The identified patterns can help the city's
   policymakers identify community areas with the greatest potential to
   promote ridesplitting as the debate on ridesourcing behavior evolves.
-author:
-- |
-  Valeria Balza\
-  University of Chicago\
-  `vbalza@uchicago`\
-title: |
-  Ridesharing in Chicago, IL:\
-  Exploring community- and trip-level factors influencing\
-  willingness to pool
----
 
 # Introduction
 
