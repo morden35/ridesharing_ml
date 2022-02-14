@@ -50,7 +50,7 @@ understand how the benefits and costs of ridesourcing are spatially distributed 
 We leverage data containing time, cost, and location features for ridesourcing trips for the city of
 Chicago and integrate it with community area-level socioeconomic and demographic variables. We
 then train two classification algorithms—Lasso Regression and Random Forest models—to predict a
-customer’s willingness to share their ride with another customer.
+customer’s willingness to share their ride with another customer.</br>
 </br>
 Specifically, given a new rider’s pickup and drop-off community area and the demographic and
 socioeconomic information associated with said community areas, what is the predicted outcome
@@ -58,6 +58,6 @@ for whether the rider authorizes a shared ride? Further, what trip- and communit
 associated with a given ride contribute to whether or not a rider agrees to a pooled trip? Exploring
 such questions will allow us to see if and how ridesplitting behavior varies with socioeconomic and
 demographic variables related to a given community area—providing additional context to the debate
-on ridesourcing.
+on ridesourcing.</br>
 </br>
-See for the full report.
+See https://github.com/morden35/ridesharing_ml/blob/master/balza_orden.pdf for the full report.
