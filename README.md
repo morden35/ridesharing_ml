@@ -1,13 +1,13 @@
 # Ridesharing in Chicago, IL:
 ## Exploring community- and trip-level factors influencing willingness to pool
 
-### Valeria Balza
-### University of Chicago
-### vbalza@uchicago.edu
+Valeria Balza
+University of Chicago
+vbalza@uchicago.edu
 
-### Michelle Orden
-### University of Chicago
-### morden@uchicago.edu
+Michelle Orden
+University of Chicago
+morden@uchicago.edu
 
 ## Abstract
 The emergence of ridesourcing providers such as Uber and Lyft have prompted
